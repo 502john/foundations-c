@@ -1,0 +1,1 @@
+# semaphore_thread_pi.c does not work on mac
